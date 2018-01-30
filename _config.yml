@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: Taxonomic Gallery
+email: "Pierrelouis.stenger@gmail.com"
+description: "My own pictures class by taxonomic species"
+url: "https://taxonomic-gallery.github.io"
+baseurl: "/Taxonomic-gallery"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Pierre-Louis STENGER
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: My own pictures class by taxonomic species
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://taxonomic-gallery.github.io/Taxonomic-gallery/gallery/"  
+  - JOURNAL: "https://taxonomic-gallery.github.io/Taxonomic-gallery/journal/"
+  - ABOUT: "https://taxonomic-gallery.github.io/Taxonomic-gallery/about/"
 
 # All translation keys
 translations:
