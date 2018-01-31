@@ -9,6 +9,8 @@ p h o t o r a m a
 
 ----------
 
+https://plstenger.github.io/Taxonomic-Gallery/
+
 A theme for **jekyll**. 
 
 Created for gh-pages (project page).
