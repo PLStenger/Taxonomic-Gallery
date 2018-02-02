@@ -2,8 +2,8 @@
 title: Taxonomic Gallery
 email: "Pierrelouis.stenger@gmail.com"
 description: "My own pictures class by taxonomic species"
-url: "https://taxonomicgallery.github.io"
-baseurl: "/plstenger"
+url: "https://plstenger.github.io/Taxonomic-Gallery/"
+baseurl: "Taxonomic-Gallery"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://taxonomicgallery.github.io/plstenger/gallery/"  
-  - JOURNAL: "https://taxonomicgallery.github.io/plstenger/journal/"
-  - ABOUT: "https://taxonomicgallery.github.io/plstenger/about/"
+  - GALLERY: "https://plstenger.github.io/Taxonomic-Gallery/gallery/"  
+  - JOURNAL: "https://plstenger.github.io/Taxonomic-Gallery/journal/"
+  - ABOUT: "https://plstenger.github.io/Taxonomic-Gallery/about/"
 
 # All translation keys
 translations:
