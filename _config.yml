@@ -2,8 +2,8 @@
 title: Taxonomic Gallery
 email: "Pierrelouis.stenger@gmail.com"
 description: "My own pictures class by taxonomic species"
-url: "https://plstenger.github.io/taxonomicgallery/"
-baseurl: "taxonomicgallery"
+url: "https://plstenger.github.io"
+baseurl: "/taxonomicgallery"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
